@@ -14,13 +14,8 @@ Busco uma oportunidade na área de desenvolvimento de software, onde possa conti
 - **Ferramentas**: VS Code, GitHub, Trello, Figma e Visual Studio.
 
 ## 🛠️ Meus Projetos
-- **[MinhasCompras](https://github.com/Joseeduardo77/MinhasCompras)**: Aplicativo web simples de controle de compras pessoais, onde o usuário pode adicionar, remover e visualizar seus gastos. (Front-end em HTML, CSS, JavaScript)
 - **[Site de Meio Ambiente](https://github.com/Joseeduardo77/site-meio-ambiente)**: Site interativo voltado para conscientização ambiental. (Frontend com HTML/CSS)
 - **[Exercícios de Lógica em JS](https://github.com/Joseeduardo77/exercicios-logica-js)**: Exercícios de lógica de programação convertidos para JavaScript, praticando fundamentos essenciais de programação.
-
-## 📢 Projetos Relevantes
-- **[MinhasCompras App](https://github.com/Joseeduardo77/minhas-compras-app)**: Aplicativo para controle de finanças pessoais, desenvolvido com foco em usabilidade e experiência do usuário.
-- **[Site Meio Ambiente](https://github.com/Joseeduardo77/site-meio-ambiente)**: Projeto que utiliza a tecnologia web para promover práticas sustentáveis e aumentar a conscientização sobre o meio ambiente.
 
 ## 🧠 Soft Skills
 - Trabalho em equipe
