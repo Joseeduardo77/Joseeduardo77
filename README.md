@@ -3,9 +3,9 @@
 ## Prazer! 👋 Me chamo José Eduardo Lins de Moura Junior
 
 - 👨‍🎓 Tenho 18 anos e sou estudante apaixonado por tecnologia.
-- 🎓 Ex-aluno Proano com formação técnica em **Desenvolvimento de Sistemas** pela **ETEC**.
+- 🎓 Proano com formação técnica em **Desenvolvimento de Sistemas** pela **ETEC**.
 - 💻 Atualmente cursando **Sistemas de Informação** na **UNIP**.
-- 🚀 Buscando evoluir como desenvolvedor nas áreas de **Front-End, Back-End, Banco de Dados e Mobile**.
+- 🚀 Buscando evoluir como desenvolvedor nas áreas de **Front-End, Back-End, Banco de Dados e Gestão de Projetos de TI**.
 - 🌱 Sempre aprendendo e criando projetos para o portfólio.
 
 ---
