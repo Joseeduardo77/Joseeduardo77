@@ -11,7 +11,7 @@ Busco uma oportunidade na área de desenvolvimento de software, onde possa conti
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, C#
 - **Versionamento de código**: Git, GitHub
-- **Ferramentas**: VS Code, GitLab, Trello
+- **Ferramentas**: VS Code, GitHub, Trello, Figma e Visual Studio.
 
 ## 🛠️ Meus Projetos
 - **[MinhasCompras](https://github.com/Joseeduardo77/MinhasCompras)**: Aplicativo web simples de controle de compras pessoais, onde o usuário pode adicionar, remover e visualizar seus gastos. (Front-end em HTML, CSS, JavaScript)
