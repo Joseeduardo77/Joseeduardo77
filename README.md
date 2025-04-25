@@ -14,7 +14,9 @@ Busco uma oportunidade na área de desenvolvimento de software, onde possa conti
 - **Ferramentas**: VS Code, GitHub, Trello, Figma e Visual Studio.
 
 ## 🛠️ Meus Projetos
-- **[Site de Meio Ambiente](https://github.com/Joseeduardo77/site-meio-ambiente)**: Site interativo voltado para conscientização ambiental. (Frontend com HTML/CSS)
+- **[Simulador de Empréstimos](https://joseeduardo77.github.io/simulador_emprestimo/)**: Este é um projeto simples de simulador de empréstimos feito com HTML, CSS e JavaScript.
+- **[Conversor de moedas com API](https://joseeduardo77.github.io/conversor_de_moedas_com_API/)**: Este é um Conversor de Moedas simples que usa a API ExchangeRate, feito com HTML, CSS e JavaScript.
+- **[ToDo List com Login](https://joseeduardo77.github.io/todo-list-login/)**: Uma aplicação web simples e prática de lista de tarefas com login, feito com HTML, CSS e JavaScript.
 - **[Exercícios de Lógica em JS](https://github.com/Joseeduardo77/exercicios-logica-js)**: Exercícios de lógica de programação convertidos para JavaScript, praticando fundamentos essenciais de programação.
 
 ## 🧠 Soft Skills
