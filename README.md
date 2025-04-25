@@ -5,7 +5,7 @@ Sou desenvolvedor júnior apaixonado por tecnologia e inovação. Com formação
 Atualmente, estou aprimorando minhas habilidades no **Instituto PROA**, onde tenho acesso a conteúdos avançados e desenvolvo competências importantes para o mercado de trabalho.
 
 ## 🚀 Objetivo Profissional
-Busco uma oportunidade na área de desenvolvimento de software, onde possa continuar aprendendo, resolver problemas de negócios e trabalhar com tecnologias modernas. Tenho interesse em áreas como Front-End, Back-End, Banco de dados e Gestão de Projetos de TI.
+Busco uma oportunidade na área de desenvolvimento de sistemas, onde possa continuar aprendendo, resolver problemas de negócios e trabalhar com tecnologias. Tenho interesse em áreas como Front-End, Back-End, Banco de dados e Gestão de Projetos de TI.
 
 ## ✨ Tecnologias que estou estudando e utilizo:
 - **Frontend**: HTML, CSS, JavaScript, React
